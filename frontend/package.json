@@ -12,6 +12,8 @@
   },
   "dependencies": {
     "@calcom/embed-react": "^1.5.2",
+    "@google/genai": "^0.14.1",
+    "@google/generative-ai": "^0.24.1",
     "@hookform/resolvers": "^5.0.1",
     "@next/third-parties": "^15.3.1",
     "@number-flow/react": "^0.5.7",
@@ -84,6 +86,7 @@
     "rehype-sanitize": "^6.0.0",
     "remark-gfm": "^4.0.1",
     "sonner": "^2.0.3",
+    "suna": "file:",
     "swr": "^2.2.5",
     "tailwind-merge": "^3.0.2",
     "tailwind-scrollbar": "^4.0.2",
